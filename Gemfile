@@ -16,6 +16,7 @@ gem 'devise', '~> 4.4', '>= 4.4.3'
 gem 'coffee-rails', '~> 4.2'
 gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
+gem 'paperclip', '~> 6.0'
 
 group :development, :test do
   gem 'sqlite3'
