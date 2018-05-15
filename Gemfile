@@ -20,7 +20,8 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem 'paperclip', '~> 6.0'
 gem 'jquery-turbolinks'
-
+gem 'will_paginate', '~> 3.1', '>= 3.1.6'
+gem 'will_paginate-bootstrap', '~> 1.0', '>= 1.0.1'
 
 group :development, :test do
   gem 'sqlite3'
