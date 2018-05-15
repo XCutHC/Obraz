@@ -10,13 +10,17 @@ gem 'rails', '~> 5.1.6'
 gem 'sqlite3'
 gem 'puma', '~> 3.7'
 gem 'sass-rails', '~> 5.0'
+gem 'jquery-rails', '~> 4.3', '>= 4.3.3'
 gem 'uglifier', '>= 1.3.0'
+gem 'masonry-rails', '~> 0.2.4'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 gem 'devise', '~> 4.4', '>= 4.4.3'
 gem 'coffee-rails', '~> 4.2'
 gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem 'paperclip', '~> 6.0'
+gem 'jquery-turbolinks'
+
 
 group :development, :test do
   gem 'sqlite3'
