@@ -8,6 +8,3 @@ $(document).on "turbolinks:load", ->
     $('#pins').masonry
       itemSelector: '.box'
       isFitWith: true
-
-# $(document).ready(ready)
-# $(document).on('page:load', ready)
